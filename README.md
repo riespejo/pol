@@ -1,0 +1,2 @@
+# pol
+Policies Azure inter
